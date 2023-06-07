@@ -1,3 +1,25 @@
 CRYPTO_CURRENCIES_LIST: ["BTC", "ETC", "LTC", "XRP"]
 CURRENCY: "USDT"
 EXCHANGE: "BINANCE"
+
+topics:
+  bitcoin:
+    - 'btc'
+    - 'bitcoin'
+    - 'BTC'
+    - 'Bitcoin'
+  ethereum:
+    - 'eth'
+    - 'ethereum'
+    - 'ETH'
+    - 'Ethereum'
+  ripple:
+    - 'xrp'
+    - 'ripple'
+    - 'XRP'
+    - 'Ripple'
+  litecoin:
+    - 'ltc'
+    - 'litecoin'
+    - 'LTC'
+    - 'Litecoin'
